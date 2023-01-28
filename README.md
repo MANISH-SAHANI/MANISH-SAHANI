@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
 
 ### ✍️Random Dev Quote
-Without requirements or design, programming is the art of adding bugs to an empty text file 🐞🐞🐞
+Without requirements or design, programming is the art of adding bugss 🐞🐞 to an empty text file.
 
 <div align="center">
 
