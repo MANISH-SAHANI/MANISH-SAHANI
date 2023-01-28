@@ -7,7 +7,7 @@
 
 
 # 💫 About Me :
-- 😄 Pronouns: He/His.
+- 😄 Pronouns: He/Him.
 - 🌱 I’m currently learning more about Game Development.
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
