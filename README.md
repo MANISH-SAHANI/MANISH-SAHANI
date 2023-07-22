@@ -16,10 +16,6 @@
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-sahani-4ab37b21b) 
 
-
-[![LinkedIn](https://github.com/MANISH-SAHANI/MANISH-SAHANI/assets/91081774/b4f4f031-fe37-4b58-8f33-cc470f2be9ce)](https://www.linkedin.com/in/manish-sahani-4ab37b21b) 
-
-
 ## 🎵 Music apps I use
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
 
