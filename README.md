@@ -15,15 +15,16 @@
 
 ## 🌐 Socials
 <p align="left">
-<a href="https://www.linkedin.com/in/manish-Sahani-ms/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek shriwas" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100090392378201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vivek shriwas" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ig_manish_xx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vivek_kumar_20" height="30" width="40" /></a>
-</p>
-<a href="https://www.instagram.com/ig_manish_xx/" target="blank"><img src="https://github.com/MANISH-SAHANI/MANISH-SAHANI/assets/91081774/22c6f086-bba7-4556-b3b9-3083eb17a1b9" 
+<a href="https://www.linkedin.com/in/manish-Sahani-ms/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ms" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100090392378201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ms" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ig_manish_xx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ms" height="30" width="40" /></a>
+         <a href="https://www.instagram.com/ig_manish_xx/" target="blank"><img src="https://github.com/MANISH-SAHANI/MANISH-SAHANI/assets/91081774/22c6f086-bba7-4556-b3b9-3083eb17a1b9" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /></a>
+         width="45" align="center"/></a>
+
 </p>
+
 
 
 
