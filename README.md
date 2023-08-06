@@ -22,10 +22,10 @@
 
 
 
-
-
-
 ## 🎵 Music apps I use
+
+<a href="https://open.spotify.com/user/dbkqpd0zqi4dryhxr6rv59q6k" target="_blank"><img align="center" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="ms"/></a>    
+
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
 
 ### ✍️Random Dev Quote
