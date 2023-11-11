@@ -65,26 +65,7 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MANISH-SAHANI&column=8&row=1&theme=dracula&no-frame=true)
 
 <!--Trophy Ends-->
-    
-<!--Contribution Graph-->    
 
-![graph](https://github-readme-activity-graph.cyclic.app/graph?username=MANISH-SAHANI&bg_color=0000000&color=dd6286&line=dd6286&point=282a36&area_color=dd6286&area=true&hide_border=true)
-
-<!--Contribution Graph Ends-->  
- 
- 
-<!--Profile Metrics-->
-
-<!-- <details><summary><b>PROFILE METRICS</b></summary>
-<p>
-<p align="center"> -->
-<img height="600" src="/profile-3d-contrib/profile-night-rainbow.svg" />
-<!-- </p> -->
-</details>
-
- 
-
-<!--Profile Metrics Ends-->
 
 <!--Profile Views Badge-->
 
