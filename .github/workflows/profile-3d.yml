@@ -20,5 +20,5 @@ jobs:
           git config user.name MANISH-SAHANI
           git config user.email manishsahani1743@gmail.com
           git add -A .
-          git commit -m "Personal 3d Contributions images updated""
+          git commit -m "Personal 3d Contributions images updated"
           git push
