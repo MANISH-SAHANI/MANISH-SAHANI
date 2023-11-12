@@ -66,12 +66,6 @@
 <!--Trophy Ends-->
 
 
-<!--Profile Views Badge-->
-
-<div align="center"><img src="https://komarev.com/ghpvc/?username=MANISH-SAHANI&style=circle&color=dd6286" alt="views"/></div>
-
-<!--Profile Views Badge End-->
-
 <!--RickRoll-->
 
 <details>
