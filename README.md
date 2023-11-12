@@ -30,12 +30,7 @@
 
 <h1> About </h1> 
     
- <p> Hey there! I am Manish!😎😁 A Computer Science Undergrad, with a love for technology and entrepreneurship.👩‍💻 
-     Open source and Communities is my strength and you'll find me exploring every thing around it!🔎
-     I also enjoy creating stuffs- projects, written content, models, games,etc. as it gives me an outlet to convey my ideas and share my insights! 
-     I am passionate about Game Development, the physics behind it!! I believe that this constant drive to learn and grow and explore more. I am excited to take on new challenges and work with a team that shares my enthusiasm.💡
-     Additionally, I'm eager to work on diverse projects that can mend the numerous vulnerabilities.🎗️Furthermore, I am confident that my problem-solving proficiency will be of vital importance :) 
-
+ <p> Hey there! I am Manish!😎😁 A Computer Science Undergrad, with a love for technology and entrepreneurship.👩‍💻 .🔎 I also enjoy creating stuffs- projects, written content, models, games,etc. as it gives me an outlet to convey my ideas and share my insights! I am passionate about Game Development, the physics behind it!! I believe that this constant drive to learn and grow and explore more. I am excited to take on new challenges and work with a team that shares my enthusiasm.💡 Additionally, I'm eager to work on diverse projects that can mend the numerous vulnerabilities.🎗️Furthermore, I am confident that my problem-solving proficiency will be of vital importance :)
 </p>
 
 <!--About Ends-->
