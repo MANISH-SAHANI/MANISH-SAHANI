@@ -4,6 +4,9 @@
 
 [![GitHub Header](https://github.com/MANISH-SAHANI/MANISH-SAHANI/assets/91081774/8d51bfbd-6f2b-431d-863a-0c7fd4e47482)](https://manishsahani.me/)
 
+[![GitHub Header](/banner.png)](https://manishsahani.me/)
+
+
 <!--[![GitHub Header](https://github.com/MANISH-SAHANI/MANISH-SAHANI/assets/91081774/e8a1371a-9f83-4cc0-995a-f2d136e8446e)](https://manishsahani.me/)-->
 
 <!--Socials-->
