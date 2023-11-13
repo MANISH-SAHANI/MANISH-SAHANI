@@ -6,17 +6,20 @@
 
 <!--[![GitHub Header](https://github.com/MANISH-SAHANI/MANISH-SAHANI/assets/91081774/e8a1371a-9f83-4cc0-995a-f2d136e8446e)](https://manishsahani.me/)-->
 
- ![f_dd](https://github.com/MANISH-SAHANI/MANISH-SAHANI/assets/91081774/9e26fef7-8fc8-436f-93b3-e5712a1b0fd0)
+
+<a href="https://manishsahani.me/" target="_blank"><img src="https://github.com/MANISH-SAHANI/MANISH-SAHANI/assets/91081774/9e26fef7-8fc8-436f-93b3-e5712a1b0fd0" alt="Logo" width="100"/></a>
 
 <!--Socials-->
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1035905809441378314) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ig_manish_xx/) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-Sahani-ms/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@manishsahani1743) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Manish_Sahani70) 
+<div align="center">
 
+   [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1035905809441378314) 
+   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ig_manish_xx/) 
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-Sahani-ms/) 
+   [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@manishsahani1743) 
+   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Manish_Sahani70) 
 
+<div>
 <!--Snake Contribution Graph-->    
     
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](/contribution.svg)
