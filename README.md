@@ -7,7 +7,7 @@
 <!--[![GitHub Header](https://github.com/MANISH-SAHANI/MANISH-SAHANI/assets/91081774/e8a1371a-9f83-4cc0-995a-f2d136e8446e)](https://manishsahani.me/)-->
 
 
-<a href="https://manishsahani.me/">cc</a>
+<a href="https://manishsahani.me/"><img src="https://github.com/MANISH-SAHANI/MANISH-SAHANI/assets/91081774/9e26fef7-8fc8-436f-93b3-e5712a1b0fd0" alt="Logo" width="100"/>-></a>
 
 <!--Socials-->
 
