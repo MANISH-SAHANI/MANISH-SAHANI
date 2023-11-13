@@ -2,8 +2,6 @@
 
 <!--[![GitHub Header](https://github.com/MANISH-SAHANI/MANISH-SAHANI/assets/91081774/12d7b148-a643-4280-8e88-b1883684456e)](https://manishsahani.me/)-->
 
-[![GitHub Header](https://github.com/MANISH-SAHANI/MANISH-SAHANI/assets/91081774/8d51bfbd-6f2b-431d-863a-0c7fd4e47482)](https://manishsahani.me/)
-
 [![GitHub Header](/banner.png)](https://manishsahani.me/)
 
 
