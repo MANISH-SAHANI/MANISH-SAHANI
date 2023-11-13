@@ -64,7 +64,7 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=MANISH-SAHANI&column=8&row=1&theme=dracula&no-frame=true)
 
 <!--Trophy Ends-->
-
+[![An image of @manishsahani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manishsahani)](https://holopin.io/@manishsahani)
 
 <!--RickRoll-->
 
