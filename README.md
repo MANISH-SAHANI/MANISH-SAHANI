@@ -41,6 +41,12 @@
 
 ![MANISH-SAHANI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MANISH-SAHANI&theme=radical&hide_border=false)
 
+<!--BADGE-->
+<div>
+<img height="190" src="https://github.com/MANISH-SAHANI/MANISH-SAHANI/assets/91081774/7e007fd7-ebbe-4318-a953-f6a270c7f581">
+</div>
+
+
 <!--Recent Activity & Streaks End-->    
 
 <details>
@@ -68,7 +74,8 @@
 <!--Trophy Ends-->
 <!--[![An image of @manishsahani's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manishsahani)](https://holopin.io/@manishsahani)-->
 
-![Badges](https://github.com/MANISH-SAHANI/MANISH-SAHANI/assets/91081774/7e007fd7-ebbe-4318-a953-f6a270c7f581)
+<!--![Badges](https://github.com/MANISH-SAHANI/MANISH-SAHANI/assets/91081774/7e007fd7-ebbe-4318-a953-f6a270c7f581)-->
+
 
 
 <!--RickRoll-->
