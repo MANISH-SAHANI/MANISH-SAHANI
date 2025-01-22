@@ -38,13 +38,6 @@
 
 <!--About Ends-->
     
-<!--Recent Activity & Streaks-->
-
-![MANISH-SAHANI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MANISH-SAHANI&theme=radical&hide_border=false)
-
-
-
-
 <!--Recent Activity & Streaks End-->    
 
 <details>
